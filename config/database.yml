@@ -1,0 +1,14 @@
+development: &defaults
+  adapter: postgresql
+  database: garden_cookbook_dev
+  username: garden_cookbook
+  password: garden_cookbook
+  host: 127.0.0.1
+
+test:
+  <<: *defaults
+  database: garden_cookbook_test
+
+production:
+  <<: *defaults
+  database: garden_cookbook
