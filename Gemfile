@@ -6,7 +6,7 @@ gem "rails3-generators"
 
 gem 'libv8', '~> 3.11.8'
 gem 'jquery-rails'
-#gem 'therubyracer'
+gem 'therubyracer'
 
 group :assets do
   gem 'sass-rails', "~> 3.2.3"
