@@ -157,6 +157,7 @@ DEPENDENCIES
   launchy
   libv8 (~> 3.11.8)
   mocha
+  nokogiri
   pg
   rails (= 3.2.3)
   rails3-generators

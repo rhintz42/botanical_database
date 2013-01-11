@@ -3,6 +3,7 @@ gem "pg"
 gem "rails", "3.2.3"
 gem "haml"
 gem "rails3-generators"
+gem 'nokogiri'
 
 gem 'libv8', '~> 3.11.8'
 gem 'jquery-rails'
