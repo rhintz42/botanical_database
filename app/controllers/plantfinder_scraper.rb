@@ -66,6 +66,7 @@ _____________________________________________________________________________
         for users to look at while inputting information into the screen.
           - The split screen next to the form would be the description from the
             website that we scraped from
+            _ Check if should do this in an iframe
         If users edit or add stuff for the database, then give them points
 
 _____________________________________________________________________________
